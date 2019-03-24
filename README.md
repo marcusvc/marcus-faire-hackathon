@@ -10,7 +10,7 @@ This program consumes all orders and identify the regular clients, by their amou
 
 The number of orders to identify a regular client and the amount of months to consider a client away are both parameterized.
 
-This work was based on the backend exercise.
+This work was based on the [backend exercise](https://github.com/marcusvc/marcus-faire-backend-exercise).
 
 Params:
 
